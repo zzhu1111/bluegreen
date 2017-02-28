@@ -15,4 +15,4 @@ Same as you did above; set it to a `green` square with
 
 # Note
 
-The app defaults to 'blue' unless you set it to green. Any other string or empty `COLOR` var will default the square to 'blue'
+The app defaults to `blue` unless you set it to green. Any other string or empty `COLOR` var will default the square to `blue`
