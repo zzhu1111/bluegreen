@@ -3,13 +3,13 @@ Simple demo code for Blue Green Deployments
 
 # Set to blue
 
-Using an env var; set the application to display a 'blue' square
+Using an env var; set the application to display a `blue` square
 
 `oc env dc/bluegreen COLOR=blue`
 
 # Set to green
 
-Same as you did above; set it to a 'green' square with
+Same as you did above; set it to a `green` square with
 
 `oc env dc/bluegreen COLOR=green`
 
